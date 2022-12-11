@@ -1,0 +1,36 @@
+.old-style{
+    color:#33FF00;
+
+}
+
+.myname{
+    color:white;
+    
+}
+.bg-black{
+    color:#282828;
+}
+
+polygon{
+    stroke: #33FF00;
+    stroke-width:5;
+}
+
+polygon:hover{
+    fill: #404040	;
+}
+
+.sidetext{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    vertical-align: middle;
+    top:30%;
+    text-decoration: none;
+    color:#33FF00;
+}
+
+.right-info{
+    top: 20%;
+    font-size: 1.5em;
+    color: whitesmoke;
+}
