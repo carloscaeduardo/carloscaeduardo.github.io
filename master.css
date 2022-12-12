@@ -6,6 +6,17 @@ hr{
 
 }
 
+#message-me{
+    color:#33FF00;
+}
+
+i{
+    color:#33FF00;
+}
+
+.my-icon{
+    font-size: 2.5rem;
+}
 
 .myname{
     color:white;
